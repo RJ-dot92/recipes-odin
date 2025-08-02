@@ -1,0 +1,40 @@
+body {
+    font-family: fantasy , Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: cadetblue;
+    color: black;
+    line-height: 1.5;
+}
+h1 {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+img {
+    float: inline-end;
+    display: inline-block;
+    margin-inline-end: 1050px;
+    margin-block-start: 70px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+div {
+    font-size: 18px;
+    color: red;
+    margin-top: 8px;
+}
+
+a {
+    color: inherit;
+    
+}
